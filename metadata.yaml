@@ -1,0 +1,37 @@
+_repo: Rico-and-Wiseli_9075
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Brooks, Louise
+    gutenberg_agent_id: '5051'
+    url: http://www.gutenberg.org/2009/agents/5051
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Spyri, Johanna Heusser
+    - Heusser, Johanna Louise
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
+description: '[v. 1.] Rico and Stineli, and how Rico found a home -- [v. 2.] How Wiseli
+  was provided for.'
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9075'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Switzerland -- Juvenile fiction'
+- !lcsh 'Italy -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: "Rico and Stineli\r\nHow Wiseli Was Provided For"
+title: Rico and Wiseli
+url: http://www.gutenberg.org/ebooks/9075
