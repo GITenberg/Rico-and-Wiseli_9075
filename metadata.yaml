@@ -1,10 +1,13 @@
 _repo: Rico-and-Wiseli_9075
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Brooks, Louise
     gutenberg_agent_id: '5051'
     url: http://www.gutenberg.org/2009/agents/5051
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Spyri, Johanna
@@ -18,6 +21,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
 description: '[v. 1.] Rico and Stineli, and how Rico found a home -- [v. 2.] How Wiseli
   was provided for.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9075#Rico-and-Wiseli
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
